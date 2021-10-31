@@ -122,7 +122,7 @@ float account :: show_interest() const
 	cin>>p;
 	cout<<"number of days since the amount has been deposited";
 	cin>>q;
-	cout<<"enter rate of interested applicable:\n if deposited days are between 30 to 100 then rate of interest is:(0.01% per day) for greater than 100 days the rate is(0.05%) per day\n";
+	cout<<"enter rate of interested applicable:\n if deposited days are between 0 to 30 days then enter rate of interest as (0 % day) for 30 to 100 then rate of interest is:(0.01% per day) for greater than 100 days the rate is(0.05%) per day\n";
 	cout<<"enter rate value according to above details\n";
 	cin>>r;
     float interest = (p*q*r)/100;
