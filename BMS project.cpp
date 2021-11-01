@@ -1,4 +1,13 @@
+/*program to create a bank management system with all the available options like creating and deleting an acount,displaying all account holder list,performing deposit and withdraw from a particular bank account,
+accessing elements with customer number and calculating simple interest of the amount deposited
 
+Created By:Yamini Sukhavasi
+Date:31/10/2021
+modified by :yamini Sukhavasi
+Date:31/10/2021
+modified by:yamini Sukhavasi
+Date:1/11/2021
+*/
 //  =====HEADER FILE USED IN PROJECT======   //
 
 
